@@ -1,0 +1,84 @@
+encoding: utf-8
+
+# SEO相关信息
+title: Tsong khapa's work Note
+description: Tsong khapa 的工作笔记
+keywords: work,Blog,note
+author: Tsong khapa
+footerText: 'Copyright © 2017 - 2020 | Tsong khapa | 滇ICP备20001762号 |'
+
+# 这些不要动
+permalink: /posts/:year/:month/:day/:title.html
+kramdown:
+  auto_ids: true
+  input: GFM
+exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.lock', 'cli.bat', 'dist.tar.gz']
+
+# 域名配置
+# baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
+domainUrl: 'http://72moc.com'
+baseurl: ''
+
+# 吐个槽地址，会在chat页面中重定向到该地址
+tucaoUrl: https://support.qq.com/product/36462
+
+# 菜单
+menu:
+  - title: 首页
+    url: /
+  - title: 归类
+    url: /pages/categories.html
+  - title: 搜索
+    url: /pages/search.html
+  - title: 友链
+    url: /pages/links.html
+  - title: 留言
+    url: /pages/chat.html
+  - title: 关于
+    url: /pages/about.html
+
+# 点击页面文字冒出特效,不需要请设置为false
+extClickEffect: true
+
+# Google Adsense,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extAdsense: false
+
+# 腾讯MTA移动分析,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extMTA: true
+
+# 百度收录自动推送,不需要请设置为false
+extBaidu: true
+
+# 数学公式支持，比较影响加载速度,不需要请设置为false
+extMath: false
+
+# 友情链接
+links:
+  - title: Z · H - Home Page of 洛桑扎巴
+    url: https://www.72moc.com
+  - title: Tsong khapa's Personal Wiki
+    url: http://wiki.72moc.com/
+  - title: 一盏灯，一部随身听，一本书
+    url: http://blog.72moc.com/
+  - title: Tsong khapa's personal learning books
+    url: http://book.72moc.com/
+  - title: Tsong khapa's resume
+    url: http://resume.72moc.com/
+  - title: 06m
+    url: https://www.06m.me
+  - title: 达达知识
+    url: https://www.dadapush.com/
+  - title: 祈雨的博客
+    url: https://wakzz.cn/
+  - title: hongCYu’s Blog
+    url: https://hongcyu.cn/
+  - title: Sorryfu - 分享技术，记录生活
+    url: https://sorryfu.top/
+  - title: 简单的人生笔记
+    url: https://yoyling.com/
+  - title: oneNeko的博客
+    url: https://blog.oneneko.com/
+  - title: Py的Blogggg
+    url: https://lzhbhlrpython.github.io/
