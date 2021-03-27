@@ -5,7 +5,7 @@ title: Tsong khapa's work Note
 description: Tsong khapa 的工作笔记
 keywords: work,Blog,note
 author: Tsong khapa
-footerText: 'Copyright © 2017 - 2020 | Tsong khapa | 滇ICP备20001762号 |'
+footerText: 'Copyright © 2017 - 2021 | Tsong khapa | 滇ICP备20001762号 |'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
@@ -16,7 +16,7 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 
 # 域名配置
 # baseurl配置,如果网站部署在根目录下的其他目录中，请设置为 /目录名
-domainUrl: 'http://72moc.com'
+domainUrl: 'http://tk-zh.com'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
@@ -57,15 +57,15 @@ extMath: false
 # 友情链接
 links:
   - title: Z · H - Home Page of 洛桑扎巴
-    url: https://www.72moc.com
+    url: https://www.tk-zh.com
   - title: Tsong khapa's Personal Wiki
-    url: http://wiki.72moc.com/
+    url: http://wiki.tk-zh.com
   - title: 一盏灯，一部随身听，一本书
-    url: http://blog.72moc.com/
+    url: http://blog.tk-zh.com
   - title: Tsong khapa's personal learning books
-    url: http://book.72moc.com/
+    url: http://book.tk-zh.com
   - title: Tsong khapa's resume
-    url: http://resume.72moc.com/
+    url: http://resume.tk-zh.com
   - title: 06m
     url: https://www.06m.me
   - title: 达达知识
